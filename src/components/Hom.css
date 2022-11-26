@@ -1,8 +1,14 @@
 .rocakt_api{
     align-items: center;
-    margin-left: 550px;
+    margin-left: 400px;
 
 }
 .styl{
     margin-bottom: 35px;
+}
+.cardstyle{
+  max-width: 55% !important;
+}
+#root{
+    background-color: rgb(207, 219, 229);
 }
